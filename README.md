@@ -3,6 +3,8 @@ exo-chat-headstart
 
 Based on "Exo Chat" at https://docs.exoplatform.org/en/6.2/Chat.html
 
+See also "Codenvy Contribution Factory with eXo Chat" at https://www.youtube.com/watch?v=QCjuoBQvPnk
+
 eXo Chat is an instant messaging application that allows users to sync up and take action quickly. Tightly integrated since eXo Platform 4, eXo Chat empowers the real-time collaboration among teams and individuals.
 
 Here is summary of what eXo Chat brings:
