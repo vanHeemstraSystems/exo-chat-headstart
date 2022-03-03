@@ -3,7 +3,7 @@ exo-chat-headstart
 
 Based on "Exo Chat" at https://docs.exoplatform.org/en/6.2/Chat.html
 
-See also "Codenvy Contribution Factory with eXo Chat" at https://www.youtube.com/watch?v=QCjuoBQvPnk
+See also "Codenvy Contribution Factory with eXo Chat" at https://www.youtube.com/watch?v=QCjuoBQvPnk from 31:15
 
 See also "Exo Docker Image" at https://hub.docker.com/r/exoplatform/exo-community/
 
