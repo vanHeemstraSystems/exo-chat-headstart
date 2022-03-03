@@ -24,3 +24,17 @@ Collaboration: Leverage collaboration with a set of actions (creating an event/t
 Notifications: Follow notifications sent to you in real time, read and answer messages immediately or later when you are free.
 
 Recording: Save your discussions from the beginning to the end that can be exported to a wiki page or sent to emails.
+
+## 100 - Introduction
+
+Usage
+
+```
+docker run -ti -p 8080:8080 -e CHAT_PASSPHRASE=changeme --link mongo:mongo exoplatform/chat-server:latest
+```
+
+A sample Docker Compose file is also available to start eXo Chat Server + MongoDB ( https://github.com/exo-docker/exo-chat-server/blob/master/docker-compose.yml ) :
+
+```
+docker-compose -f ./docker-compose.yml up
+```
