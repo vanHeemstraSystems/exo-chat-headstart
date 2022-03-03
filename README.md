@@ -7,6 +7,8 @@ See also "Codenvy Contribution Factory with eXo Chat" at https://www.youtube.com
 
 See also "Exo Docker Image" at https://hub.docker.com/r/exoplatform/exo-community/
 
+See also "Exo Chat Server (Docker)" at https://github.com/exo-docker/exo-chat-server
+
 eXo Chat is an instant messaging application that allows users to sync up and take action quickly. Tightly integrated since eXo Platform 4, eXo Chat empowers the real-time collaboration among teams and individuals.
 
 Here is summary of what eXo Chat brings:
